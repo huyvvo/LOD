@@ -12,7 +12,7 @@ Existing approaches to unsupervised object discovery (UOD) do not scale up to la
 Code will be released soon!
 
 ## Quantitative results
-![Quantitative result][images/quantitative_results.jpg]
+![Quantitative result][images/quantitative_result.jpg]
 
 ## Citations
 
