@@ -4,8 +4,12 @@ Huy V. Vo, Elena Sizikova, Cordelia Schmid, Patrick Pérez, Jean Ponce
 [[PDF]]()
 
 We propose a novel ranking-based large-scale unsupervised object discovery algorithm that scales up to 1.7M images.
-
 ![Teaser](images/teaser.jpg)
+
+This repository contains code used in the paper. 
+
+##Code:
+TODO
 
 ## Quantitative results
 ![Quantitative result](images/quantitative_result.jpg)
