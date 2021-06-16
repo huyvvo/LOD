@@ -21,7 +21,7 @@ TODO
   title     = {Large-Scale Unsupervised Object Discovery},
   author    = {Vo, Huy V. and Sizikova, Elena and Schmid, Cordelia and P{\'e}rez, Patrick and Ponce, Jean},
   year      = {2021},
-  eprint={},
+  eprint={2106.06650},
   archivePrefix={arXiv},
   primaryClass={cs.CV}
 }
