@@ -1,0 +1,6 @@
+tqdm>=4.50.2
+scipy>=1.5.2
+pillow>=8.0.1
+pathlib2>=2.3.5
+numpy>=1.19.2
+h5py>=2.10.0
