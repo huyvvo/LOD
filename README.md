@@ -23,13 +23,12 @@ Follow [GETTING_STARTED.md](docs/GETTING_STARTED.md) to run `LOD` with VGG16 fea
 ## Citations
 
 ```
-@misc{Vo21LOD,
+@inproceedings{Vo21LOD,
   title     = {Large-Scale Unsupervised Object Discovery},
-  author    = {Vo, Huy V. and Sizikova, Elena and Schmid, Cordelia and P{\'e}rez, Patrick and Ponce, Jean},
+  author    = {Vo, Huy V. and Sizikova, Elena and Schmid, 
+               Cordelia and P{\'e}rez, Patrick and Ponce, Jean},
+  booktitle = {Advances in Neural Information Processing Systems 34 (NeurIPS 2021)}
   year      = {2021},
-  eprint={2106.06650},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV}
 }
 ```
 
