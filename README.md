@@ -27,7 +27,7 @@ Follow [GETTING_STARTED.md](docs/GETTING_STARTED.md) to run `LOD` with VGG16 fea
   title     = {Large-Scale Unsupervised Object Discovery},
   author    = {Vo, Huy V. and Sizikova, Elena and Schmid, 
                Cordelia and P{\'e}rez, Patrick and Ponce, Jean},
-  booktitle = {Advances in Neural Information Processing Systems 35 (NeurIPS 2021)}
+  booktitle = {Advances in Neural Information Processing Systems 35 {(NeurIPS)}},
   year      = {2021},
 }
 ```
